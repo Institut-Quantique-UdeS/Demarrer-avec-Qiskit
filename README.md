@@ -22,7 +22,7 @@ deactivate
 
 In the job submission script, the environment must be sourced as
 ```
-module load scipy-stack/2023b symengine/0.10.1
+module load scipy-stack/2023b symengine/0.9.0
 source env_qiskit/bin/activate
 ```
 
